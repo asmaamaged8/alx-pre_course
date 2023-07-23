@@ -1,0 +1,8 @@
+#advanced
+Create a .gitignore file and define a rule to never push ~ files (geneirated by Emacs). Tips
+
+Repo:
+
+GitHub repository: alx-pre_course
+Directory: 0x01-git
+File: .gitignore0;276;0c
